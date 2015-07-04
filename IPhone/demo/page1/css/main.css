@@ -1,0 +1,232 @@
+div {
+border: 1px solid black;
+float: left;
+padding: 2px;
+margin: 2px;
+width: 100%;
+}
+
+#one {
+border: 2px solid black;
+height:100vh;
+width: 99.5%;
+background-color: #1d2029;
+background-repeat: repeat;
+padding-left: 50px;
+padding-right: 0px;
+}
+
+#left {
+border: 5px solid transparent;
+border-radius: 10px;
+float: left;
+width: 450px;
+height: 830px;
+margin-right: 0px;
+padding-top: 50px;
+}
+
+#another_view{
+background-color: #ffffff;
+border: 0px solid transparent;
+width: 130px;
+}
+
+#first {
+color: #bdb09f;
+width: 450px;
+padding-bottom: 5px;
+}
+
+#second {
+color: #bdb09f;
+width: 450px;
+padding: 20px;
+padding-right: 0px;
+padding-bottom: 50px;
+}
+
+#third {
+color: #bdb09f;
+width: 550px;
+padding: 0px;
+}
+
+#three_one {
+width: 170px;
+margin-right: 4px;
+padding: 0px;
+}
+
+#three_two {
+width: 170px;
+margin-right: 4px;
+padding: 0px;
+}
+
+#three_three {
+width: 180px;
+padding: 0px;
+}
+
+#right {
+border: 12px solid transparent;
+border-image: url(http://pngimg.com/upload/iphone_PNG5735.png) 	17% stretch ;
+border-image-outset: 69px 68px 78px 38px;
+border-image-width: 80px 70px 95px 50px;
+border-radius: 0px;
+background-color: #ffffff;
+float: center;
+width: 320px;
+height: 535px;
+margin: 0px;	
+margin-left: 250px;
+margin-top: 80px;
+padding: 0px;
+}
+
+#upper_block {
+width: 304px;
+height: 505px;
+padding: 0px;
+margin-top: 1px;
+margin-bottom: 1px;
+}
+
+#lower_block {
+height: 363px;
+width: 619px;
+margin-top: 0px;
+overflow:auto;
+cursor:default;
+}
+
+#index {
+width:300px;
+height:23px;
+padding:0px;
+margin-top: 3px;
+margin-bottom: 0px;
+border: 0px solid white;
+}
+
+#index1 {
+width:50px;
+height: 22px;
+margin:0px;
+border: 0px;
+cursor:default;
+background-color: #7F7FCF;
+}
+
+#index2 {
+width:50px;
+height: 22px;
+margin:0px;
+border: 0px;
+cursor:default
+}
+#index3 {
+width:55px;
+height: 22px;
+margin:0px;
+border: 0px;
+cursor:default;
+margin-right:0px;
+}
+
+#index4 {
+width:70px;
+height: 22px;
+margin:0px;
+border: 0px;
+cursor:default;
+margin-right:0px;
+}
+#index5 {
+width:50px;
+height: 22px;
+margin:0px;
+border: 0px;
+cursor:default;
+margin-right:0px;
+}
+
+#block_1 {
+height: 109px;
+width: 149px;
+margin: 0px;
+margin-bottom: 1px;
+border: 0px solid white;
+background-color: #D5D5D5;
+cursor:default
+}
+
+#block_2 {
+height: 109px;
+width: 149px;
+margin: 0px;
+margin-bottom: 1px;
+border: 0px solid white;
+background-color: #D5D5D5;	
+cursor:default
+}
+
+#block_3 {
+height: 109px;
+width: 149px;
+float: left;
+margin: 0px;
+margin-bottom: 1px;
+border: 0px solid white;
+background-color: #D5D5D5;
+cursor:default
+}
+
+#block_4 {
+height: 111px;
+width: 149px;
+float: left;
+margin: 0px;
+margin-bottom: 0px;
+border: 0px solid white;
+background-color: #D5D5D5;
+cursor:default
+}
+
+#block_5 {
+height: 147px;
+width: 148px;
+margin: 0px;
+margin-bottom: 1px;
+border: 0px solid white;
+background-color: #D5D5D5;
+cursor:default
+}
+
+#block_6 {
+height: 146px;
+width: 148px;
+margin: 0px;
+margin-bottom: 1px;
+border: 0px solid white;
+background-color: #D5D5D5;
+cursor:default
+}
+
+#block_7 {
+height: 146px;
+width: 148px;
+margin: 0px;
+border: 0px solid white;
+background-color: #D5D5D5;
+cursor:default
+}
+
+a{
+color: black;
+}
+
+a:visited {
+color: black;
+}

@@ -1,0 +1,20 @@
+<div id="upper_block">
+
+	<div style="width:316px; border:0px; padding:0px; padding-bottom:30px; margin-left:0px; height:10px; margin-bottom:0px;">
+	
+		<div class="container" style="float:left; width:80px; border:0px; "> 
+
+		// Changes done here:
+			<a href="#" class="btn btn-secondary disabled prev_btn" role="button"></a>
+		</div>
+
+		<div id="times_today" class="times_today" style="float:left; width:140px; border:0px;">
+			<b>THE TIMES TODAY</b>
+		</div>
+
+		<div class="container" style="float:right; width:80px; border:0px; margin-right:0px; padding-right:0px;">
+		// Changes done here:
+ 			<a href="../page2/2.html" class="btn btn-secondary next_btn" role="button"></a> 
+		</div>	
+
+	</div>	
