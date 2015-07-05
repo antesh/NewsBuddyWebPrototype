@@ -101,6 +101,25 @@ overflow:auto;
 cursor:default
 }
 
+
+#index div a{
+	text-decoration:none;
+}
+#index div:hover{
+	background-color:#687d92;
+	color: white;
+}
+#index div:hover a{
+	color: white;
+}
+
+#index2 a,#index2:hover a{
+	color:white;
+	text-decoration:none;	
+}
+#index2:hover{
+	background-color: #3e4656 !important;
+}
 #index {
 width:300px;
 height:23px;
@@ -124,7 +143,7 @@ height: 22px;
 margin:0px;
 border: 0px;
 cursor:default;
-background-color: #7F7FCF;
+background-color: #3e4656;
 }
 #index3 {
 width:55px;
@@ -144,7 +163,7 @@ cursor:default;
 margin-right:0px;
 }
 #index5 {
-width:50px;
+width:61px;
 height: 22px;
 margin:0px;
 border: 0px;
@@ -246,4 +265,25 @@ color: black;
 
 a:visited {
 color: black;
+}
+.next_btn{
+	background: url(../images/sprite_black2.png) -42px -21px no-repeat;
+	width: 21px;
+	height: 21px;
+	  position: relative;
+  right: -26px;
+}
+.next_btn:hover,.next_btn:active{
+	opacity:0.5;
+}
+.prev_btn{
+	background: url(../images/sprite_black2.png) -21px -25px no-repeat;
+	width: 21px;
+	height:21px;
+    position: relative;
+  left: -15px;
+  vertical-align: -webkit-baseline-middle;
+}
+.prev_btn:hover,.prev_btn:active{
+	opacity:0.5;
 }

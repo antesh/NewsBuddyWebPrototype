@@ -111,19 +111,32 @@ margin:0px;
 float:left;
 border: 1px solid ;
 border-right: 0px;
-border-top: 2px solid ;
-border-bottom: 2px solid;
 cursor:default
 }
 
+#index div a{
+	text-decoration:none;
+}
+#index div:hover{
+	background-color:#687d92;
+	color: white;
+	border: solid 1px black;
+}
+#index div:hover a{
+	color: white;
+}
+
+#index5 a,#index5:hover a{
+	color:white;
+	text-decoration:none;	
+}
+#index5:hover{
+	background-color: #3e4656 !important;
+}
 #index1 {
 width:104px;
 height: 22px;
 margin:0px;
-border: 1px solid ;
-border-right: 0px;
-border-top: 2px solid ;
-border-bottom: 2px solid;
 cursor:default
 }
 
@@ -131,20 +144,12 @@ cursor:default
 width:104px;
 height: 22px;
 margin:0px;
-border: 1px solid ;
-border-right: 0px;
-border-top: 2px solid ;
-border-bottom: 2px solid;
 cursor:default
 }
-
 #index3 {
 width:104px;
 height: 22px;
 margin:0px;
-border-top: 2px solid ;
-border-bottom: 2px solid;
-border-right: 0px;
 cursor:default
 }
 
@@ -152,22 +157,13 @@ cursor:default
 width:104px;
 height: 22px;
 margin:0px;
-border: 1px solid ;
-border-right: 0px;
-border-top: 2px solid ;
-border-bottom: 2px solid;
 cursor:default
 }
 
 #index5 {
 width:104px;
 height: 22px;
-margin:0px;
-border: 1px solid ;
-border-right: 0px;
-border-top: 2px solid ;
-border-bottom: 2px solid;
-cursor:default
+margin:0px
 }
 
 #index_right {
@@ -176,8 +172,6 @@ height: 22px;
 margin: 0px;
 float: right;
 border: 1px solid ;
-border-top: 2px solid ;
-border-bottom: 2px solid;
 }
 
 #block_1 {

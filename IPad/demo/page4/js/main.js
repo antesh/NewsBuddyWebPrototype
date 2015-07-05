@@ -1,5 +1,5 @@
 document.getElementById('block_1').style.backgroundColor = '#bbbbbb';        
-document.getElementById('index3').style.backgroundColor = '#7F7FCF';
+document.getElementById('index3').style.backgroundColor = '#3e4656';
 
 function myFunction(num) {
             if (num == 1) {
