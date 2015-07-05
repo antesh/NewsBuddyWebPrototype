@@ -43,8 +43,7 @@ function myFunction(num) {
         document.getElementById('block_7').style.backgroundColor = '';
 
     } else if (num == 4) {
-        document.getElementById('lower_block_below').innerHTML = "<b>WASHINGTON</b> — The Federal Reserve on Wednesday moved to the verge of raising interest rates for the first time since the economy fell into recession more than seven years ago, even as officials suggested that the Fed might not pull the trigger until well into the second half of the year.<br><br>In a statement released after a two-day meeting of its policy-making committee, the Fed said that it would consider raising its benchmark rate as early as June, and it removed from the statement a promise that it would be \"patient\"Yet the Fed tempered that message on Wednesday, including the release of economic forecasts by its senior officials that showed they now think the unemployment rate can still fall significantly without setting off higher inflation. That conveyed an impression that Fed officials may feel less urgency about raising interest rates so soon.";
-
+        document.getElementById('lower_block_below').innerHTML = '<iframe width="610" height="300" src="https://www.youtube.com/embed/K-L6JcsLUBk?autoplay=1" frameborder="0" allowfullscreen></iframe>';
         document.getElementById('images').innerHTML = '';
 
         document.getElementById('block_1').style.backgroundColor = '';
