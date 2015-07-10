@@ -115,7 +115,9 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:default;
+font-size: 20px !important;
+font-weight: 700;
 }
 
 #block_2 {
@@ -125,7 +127,9 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;	
-cursor:default
+cursor:default;
+font-size: 30px !important;
+font-weight: 500;
 }
 
 #block_3 {
@@ -136,7 +140,9 @@ margin: 0px;
 margin-right: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:default;
+font-size: 20px !important;
+font-weight: 500;
 }
 
 #block_4 {
@@ -147,7 +153,9 @@ margin: 0px;
 margin-right: 2px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:default;
+background: url(../../commonImages/lakme.jpg) no-repeat;
+background-size: 100% 100%;
 }
 
 #block_5 {
@@ -157,7 +165,9 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:default;
+font-size: 20px !important;
+font-weight: 500;
 }
 
 #block_6 {
@@ -167,7 +177,9 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:default;
+font-size: 20px !important;
+font-weight: 700;
 }
 
 #block_7 {
@@ -176,7 +188,10 @@ width: 220px;
 margin: 0px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:default;
+background: url(../../commonImages/sg6.jpg) right bottom no-repeat;
+background-size: 60% 60%;
+font-family: cursive !important;
 }
 
 a{

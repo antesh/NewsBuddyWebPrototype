@@ -115,7 +115,9 @@ margin: 0px;
 margin-right: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:default;
+font-size: 25px !important;
+font-weight: 700;
 }
 
 #block_2 {
@@ -125,7 +127,8 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default	
+cursor:default;
+font-size: 30px !important;
 }
 
 #block_3 {

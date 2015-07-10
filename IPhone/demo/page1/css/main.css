@@ -248,24 +248,3 @@ color: black;
 a:visited {
 color: black;
 }
-.next_btn{
-	background: url(../images/sprite_black2.png) -42px -21px no-repeat;
-	width: 21px;
-	height: 21px;
-	  position: relative;
-  right: -26px;
-}
-.next_btn:hover,.next_btn:active{
-	opacity:0.5;
-}
-.prev_btn{
-	background: url(../images/sprite_black2.png) -21px -25px no-repeat;
-	width: 21px;
-	height:21px;
-    position: relative;
-  left: -15px;
-  vertical-align: -webkit-baseline-middle;
-}
-.prev_btn:hover,.prev_btn:active{
-	opacity:0.5;
-}

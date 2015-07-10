@@ -27,20 +27,21 @@ padding-top: 50px;
 }
 
 #first {
-color: #bdb09f;
-width: 562px;
-padding-bottom: 5px;
+  color: #bdb09f;
+  width: 530px;
+  padding-bottom: 5px;
+  padding-left: 20px;
 }
 
 #second {
 color: #bdb09f;
-width: 545px;
+width: 550px;
 padding: 20px;
-padding-left: 0px;
 padding-right: 0px;
 padding-bottom: 50px;
 text-align: center;
 }
+
 #third div{
 	text-align:center;
 }
@@ -60,16 +61,37 @@ padding: 0px;
 width: 170px;
 margin-right: 4px;
 padding: 0px;
+margin-top: -8px;
 }
 
 #three_three {
 width: 180px;
 padding: 0px;
 }
-#mobileImage{
+#ipadImage{
 	height: 100px;
-	width:50px;
+	width:80px;
 	box-shadow: 0px -114px 93px #9dF;
-	  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
+}
+
+.next_btn{
+	background: url(../images/sprite_black2.png) -42px -21px no-repeat;
+	width: 21px;
+	height: 21px;
+	  position: relative;
+  right: -26px;
+}
+.next_btn:hover,.next_btn:active{
+	opacity:0.5;
+}
+.prev_btn{
+	background: url(../images/sprite_black2.png) -21px -25px no-repeat;
+	width: 21px;
+	height:21px;
+    position: relative;
+  left: -15px;
+  vertical-align: -webkit-baseline-middle;
+}
+.prev_btn:hover,.prev_btn:active{
+	opacity:0.5;
 }
