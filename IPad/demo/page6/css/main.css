@@ -113,6 +113,9 @@ margin-bottom: 1px;
 margin-right: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
+cursor: pointer;
+font-size: 28px !important;
+font-weight: 700;
 }
 
 #block_2 {
@@ -121,6 +124,9 @@ width: 203px;
 margin: 0px;
 border: 0px solid white;
 background-color: #D5D5D5;	
+cursor: pointer;
+font-size: 20px !important;
+font-weight: 500;
 }
 
 #block_3 {
@@ -132,6 +138,8 @@ margin-right: 1px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
+cursor: pointer;
+font-size: 17px !important;
 }
 
 #block_4 {
@@ -141,6 +149,9 @@ float: left;
 margin: 0px;
 border: 0px solid white;
 background-color: #D5D5D5;
+cursor: pointer;
+font-size: 25px !important;
+font-weight: 700;
 }
 
 #block_5 {
@@ -151,6 +162,9 @@ margin-bottom: 1px;
 margin-left: 0px;
 border: 0px solid white;
 background-color: #D5D5D5;
+cursor: pointer;
+font-size: 25px !important;
+font-weight: 500;
 }
 
 #block_6 {
@@ -162,6 +176,7 @@ margin-right: 1px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
+cursor: pointer;
 }
 
 #block_7 {
@@ -172,6 +187,7 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
+cursor: pointer;
 }
 
 #block_8 {
@@ -181,6 +197,9 @@ margin: 0px;
 margin-left: 0px;
 border: 0px solid white;
 background-color: #D5D5D5;
+cursor: pointer;
+font-size: 25px !important;
+font-weight: 500;
 }
 
 a{

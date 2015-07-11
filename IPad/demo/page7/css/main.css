@@ -115,8 +115,14 @@ width: 195px;
 margin: 0px;
 margin-right: 1px;
 border: 0px solid white;
+cursor:pointer;
+font-size: 35px !important;
+font-weight: 700;
+background: url(../../commonImages/rolex-logo.png) bottom right no-repeat;
+background-size: 100% 100%;
 background-color: #D5D5D5;
-cursor:default
+background-position-x: 34px;
+background-position-y: 5px;
 }
 
 #block_2 {
@@ -126,7 +132,8 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default	
+cursor:pointer;
+font-size: 25px !important;
 }
 
 #block_3 {
@@ -137,7 +144,8 @@ margin: 0px;
 margin-right: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 16px !important;
 }
 
 #block_4 {
@@ -146,8 +154,14 @@ width: 209px;
 float: left;
 margin: 0px;
 border: 0px solid white;
+cursor:pointer;
+font-size: 20px !important;
+font-weight: 700;
+background: url(../../commonImages/godrej-logo.png) bottom right no-repeat;
+background-size: 71% 57%;
 background-color: #D5D5D5;
-cursor:default
+background-position-x: 51px;
+background-position-y: 28px;
 }
 
 #block_5 {
@@ -157,7 +171,8 @@ margin: 0px;
 margin-right: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 28px !important;
 }
 
 #block_6 {
@@ -166,7 +181,8 @@ width: 307px;
 margin: 0px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 22px !important;
 }
 
 #block_7 {
@@ -176,7 +192,8 @@ margin: 0px;
 margin-right: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 19px !important;
 }
 
 #block_8 {
@@ -186,7 +203,8 @@ margin: 0px;
 margin-right: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 18px !important;
 }
 
 #block_9 {
@@ -195,7 +213,8 @@ width: 205px;
 margin: 0px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default	
+cursor:pointer;
+font-size: 17px !important;
 }
 
 a{

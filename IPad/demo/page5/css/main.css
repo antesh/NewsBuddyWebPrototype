@@ -115,7 +115,9 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor: pointer;
+font-size: 30px !important;
+font-weight: 700;
 }
 
 #block_2 {
@@ -123,9 +125,14 @@ height: 86px;
 width: 392px;
 margin: 0px;
 margin-bottom: 1px;
-border: 0px solid white;
-background-color: #D5D5D5;	
-cursor:default
+border: 0px solid white;	
+cursor:pointer;
+background: url(../../commonImages/delhi.jpg) top right no-repeat;
+background-size: 55% 87%;
+background-color: #D5D5D5;
+font-size: 20px !important;
+font-weight: 700;
+background-position-y: 6px;
 }
 
 #block_3 {
@@ -135,8 +142,12 @@ float: left;
 margin: 0px;
 margin-right: 1px;
 border: 0px solid white;
+cursor:pointer;
+background: url(../../commonImages/iitm.png) bottom no-repeat;
+background-size: 55% 75%;
 background-color: #D5D5D5;
-cursor:default
+font-size: 20px !important;
+font-weight: 700;
 }
 
 #block_4 {
@@ -146,8 +157,12 @@ float: left;
 margin: 0px;
 margin-right: 2px;
 border: 0px solid white;
+font-size: 25px !important;
+font-weight: 700;
+background: url(../../commonImages/yoga.png) bottom no-repeat;
+background-size: 96% 58%;
+background-position-y: 49px;
 background-color: #D5D5D5;
-cursor:default
 }
 
 #block_5 {
@@ -156,8 +171,12 @@ width: 220px;
 margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
+cursor:pointer;
+background: url(../../commonImages/is.png) bottom no-repeat;
+background-size: 32% 70%;
 background-color: #D5D5D5;
-cursor:default
+font-size: 20px !important;
+font-weight: 700;
 }
 
 #block_6 {
@@ -167,7 +186,8 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 34px !important;
 }
 
 #block_7 {
@@ -175,8 +195,12 @@ height: 103px;
 width: 220px;
 margin: 0px;
 border: 0px solid white;
+cursor:pointer;
+font-size: 28px !important;
+background: url(../../commonImages/ques.gif) bottom right no-repeat;
+background-size: 32% 69%;
 background-color: #D5D5D5;
-cursor:default
+background-position-x: 130px;
 }
 
 a{

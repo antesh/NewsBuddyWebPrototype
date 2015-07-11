@@ -26,7 +26,7 @@ height: 363px;
 width: 619px;
 margin-top: 0px;
 overflow:auto;
-cursor:default
+cursor:pointer
 }
 
 #index {
@@ -44,7 +44,7 @@ height: 22px;
 margin:0px;
 float:left;
 border: 1px solid ;
-cursor:default
+cursor:pointer
 }
 
 #index div a{
@@ -76,27 +76,27 @@ margin:0px;
 width:104px;
 height: 22px;
 margin:0px;
-cursor:default
+cursor:pointer
 }
 #index3 {
 width:104px;
 height: 22px;
 margin:0px;
-cursor:default
+cursor:pointer
 }
 
 #index4 {
 width:104px;
 height: 22px;
 margin:0px;
-cursor:default
+cursor:pointer
 }
 
 #index5 {
 width:104px;
 height: 22px;
 margin:0px;
-cursor:default
+cursor:pointer
 }
 
 #index_right {
@@ -105,7 +105,7 @@ height: 22px;
 margin: 0px;
 float: right;
 border: 1px solid ;
-cursor:default
+cursor:pointer
 }
 
 #block_1 {
@@ -115,7 +115,7 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default;
+cursor:pointer;
 font-size: 20px !important;
 font-weight: 700;
 }
@@ -127,7 +127,7 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;	
-cursor:default;
+cursor:pointer;
 font-size: 30px !important;
 font-weight: 500;
 }
@@ -140,7 +140,7 @@ margin: 0px;
 margin-right: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default;
+cursor:pointer;
 font-size: 20px !important;
 font-weight: 500;
 }
@@ -153,7 +153,7 @@ margin: 0px;
 margin-right: 2px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default;
+cursor:pointer;
 background: url(../../commonImages/lakme.jpg) no-repeat;
 background-size: 100% 100%;
 }
@@ -165,7 +165,7 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default;
+cursor:pointer;
 font-size: 20px !important;
 font-weight: 500;
 }
@@ -177,7 +177,7 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default;
+cursor:pointer;
 font-size: 20px !important;
 font-weight: 700;
 }
@@ -188,7 +188,7 @@ width: 220px;
 margin: 0px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default;
+cursor:pointer;
 background: url(../../commonImages/sg6.jpg) right bottom no-repeat;
 background-size: 60% 60%;
 font-family: cursive !important;
