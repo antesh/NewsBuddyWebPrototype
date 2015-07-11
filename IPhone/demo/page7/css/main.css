@@ -27,7 +27,7 @@ height: 363px;
 width: 619px;
 margin-top: 0px;
 overflow:auto;
-cursor:default
+cursor:pointer
 }
 
 #index div a{
@@ -62,7 +62,7 @@ width:50px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default
+cursor:pointer
 }
 
 #index2 {
@@ -70,14 +70,14 @@ width:50px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default
+cursor:pointer
 }
 #index3 {
 width:55px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default;
+cursor:pointer;
 margin-right:0px;
 }
 
@@ -86,7 +86,7 @@ width:70px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default;
+cursor:pointer;
 margin-right:0px;
 }
 #index5 {
@@ -94,7 +94,7 @@ width:70px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default;
+cursor:pointer;
 margin-right:0px;
 background-color: #3e4656;
 }
@@ -105,8 +105,15 @@ width: 99px;
 margin: 0px;
 margin-right: 1px;
 border: 0px solid white;
+cursor:pointer;  
+padding-top: 10px;
+font-size: 19px !important;
+font-weight: 700;
+background: url(../../images/rolex-logo.png) bottom right no-repeat;
+background-size: 100% 70%;
 background-color: #D5D5D5;
-cursor:default
+background-position-x: 15px;
+background-position-y: 15px;
 }
 
 #block_2 {
@@ -116,7 +123,8 @@ margin: 0px;
 margin-right: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;	
-cursor:default
+cursor:pointer;
+font-size: 17px !important;
 }
 
 #block_3 {
@@ -126,7 +134,7 @@ float: left;
 margin: 0px;;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer
 }
 
 #block_4 {
@@ -136,8 +144,14 @@ float: left;
 margin: 0px;
 margin-right: 1px;
 border: 0px solid white;
+cursor:pointer;
+font-size: 24px !important;
+font-weight: 700;
+background: url(../../images/godrej-logo.png) bottom right no-repeat;
+background-size: 90% 36%;
 background-color: #D5D5D5;
-cursor:default
+background-position-x: 7px;
+background-position-y: 67px;
 }
 
 #block_5 {
@@ -146,7 +160,9 @@ width: 149px;
 margin: 0px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 25px !important;
+font-weight: 700;
 }
 
 #block_6 {
@@ -156,7 +172,7 @@ margin: 0px;
 margin-right: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer
 }
 
 #block_7 {
@@ -165,7 +181,8 @@ width: 198px;
 margin: 0px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 26px !important;
 }
 
 #block_8 {
@@ -175,7 +192,8 @@ margin: 0px;
 margin-right: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 18px !important;
 }
 
 #block_9 {
@@ -184,7 +202,8 @@ width: 149px;
 margin: 0px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 17px !important;
 }
 
 a{

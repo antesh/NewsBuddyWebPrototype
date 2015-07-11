@@ -27,7 +27,7 @@ height: 363px;
 width: 619px;
 margin-top: 0px;
 overflow:auto;
-cursor:default
+cursor:pointer
 }
 
 
@@ -63,7 +63,7 @@ width:50px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default
+cursor:pointer
 }
 
 #index2 {
@@ -71,7 +71,7 @@ width:50px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default;
+cursor:pointer;
 background-color: #3e4656;
 }
 #index3 {
@@ -79,7 +79,7 @@ width:55px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default;
+cursor:pointer;
 margin-right:0px;
 }
 
@@ -88,7 +88,7 @@ width:70px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default;
+cursor:pointer;
 margin-right:0px;
 }
 #index5 {
@@ -96,7 +96,7 @@ width:61px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default;
+cursor:pointer;
 margin-right:0px;
 }
 
@@ -107,7 +107,8 @@ margin: 0px;
 margin-right: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 16px !important;
 }
 
 #block_2 {
@@ -117,17 +118,26 @@ margin: 0px;
 margin-right: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;	
-cursor:default
+cursor:pointer;
+font-size: 18px !important;
+font-weight: 700;
 }
 
 #block_3 {
 height: 109px;
 width: 98px;
 float: left;
-margin: 0px;;
+margin: 0px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 14px !important;
+font-weight: 900;
+font-family: Arial!important;
+background: -webkit-linear-gradient(left top, orange, lightgreen);
+background: -o-linear-gradient(bottom right, orange, lightgreen);
+background: -moz-linear-gradient(bottom right, orange, lightgreen);
+background: linear-gradient(to bottom right, orange, lightgreen);
 }
 
 #block_4 {
@@ -138,7 +148,9 @@ margin: 0px;
 margin-right: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 18px !important;
+font-weight: 900;
 }
 
 #block_5 {
@@ -147,7 +159,10 @@ width: 149px;
 margin: 0px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 22px !important;
+background: url(../../images/snapdeal.jpg) right bottom no-repeat;
+background-size: 66% 60%;
 }
 
 #block_6 {
@@ -157,7 +172,8 @@ margin: 0px;
 margin-right: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-weight: 700;
 }
 
 #block_7 {
@@ -166,7 +182,8 @@ width: 198px;
 margin: 0px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 21px !important;
 }
 
 #block_8 {
@@ -176,7 +193,8 @@ margin: 0px;
 margin-right: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 19px !important;
 }
 
 #block_9 {
@@ -185,7 +203,7 @@ width: 149px;
 margin: 0px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer
 }
 
 a{

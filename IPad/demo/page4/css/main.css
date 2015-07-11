@@ -70,14 +70,14 @@ border-right: 0px;
 width:104px;
 height: 22px;
 margin:0px;
-cursor:default
+cursor:pointer
 }
 
 #index2 {
 width:104px;
 height: 22px;
 margin:0px;
-cursor:default
+cursor:pointer
 }
 #index3 {
 width:104px;
@@ -89,14 +89,14 @@ margin:0px;
 width:104px;
 height: 22px;
 margin:0px;
-cursor:default
+cursor:pointer
 }
 
 #index5 {
 width:104px;
 height: 22px;
 margin:0px;
-cursor:default
+cursor:pointer
 }
 #index_right {
 width: 46px;
@@ -113,7 +113,6 @@ margin: 0px;
 margin-bottom: 1px;
 margin-right: 1px;
 border: 0px solid white;
-background-color: #D5D5D5 !important;
 cursor: pointer;
 font-size: 22px !important;
 font-weight: 700;
@@ -121,6 +120,7 @@ background: url(../../commonImages/ignou.png) right bottom no-repeat;
 background-size: 90% 42%;
 background-position-x: 10px;
 background-position-y: 100px;
+background-color: #D5D5D5;
 }
 
 #block_2 {
@@ -153,11 +153,11 @@ width: 203px;
 float: left;
 margin: 0px;
 border: 0px solid white;
-background-color: #D5D5D5 !important;
 cursor: pointer;
 background: url(../../commonImages/bigbazaar.png) right bottom no-repeat;
 background-size: 91% 45%;
 background-position-x: 10px;
+background-color: #D5D5D5;
 }
 
 #block_5 {

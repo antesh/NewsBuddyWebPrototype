@@ -26,7 +26,7 @@ height: 363px;
 width: 619px;
 margin-top: 0px;
 overflow:auto;
-cursor:default
+cursor:pointer
 }
 
 #index {
@@ -44,7 +44,7 @@ height: 22px;
 margin:0px;
 float:left;
 border: 1px solid ;
-cursor:default
+cursor:pointer
 }
 
 #index div a{
@@ -70,20 +70,20 @@ cursor:default
 width:104px;
 height: 22px;
 margin:0px;
-cursor:default
+cursor:pointer
 }
 
 #index2 {
 width:104px;
 height: 22px;
 margin:0px;
-cursor:default
+cursor:pointer
 }
 #index3 {
 width:104px;
 height: 22px;
 margin:0px;
-cursor:default
+cursor:pointer
 }
 
 #index4 {
@@ -96,7 +96,7 @@ margin:0px;
 width:104px;
 height: 22px;
 margin:0px;
-cursor:default
+cursor:pointer
 }
 
 #index_right {
@@ -105,7 +105,7 @@ height: 22px;
 margin: 0px;
 float: right;
 border: 1px solid ;
-cursor:default
+cursor:pointer
 }
 
 #block_1 {

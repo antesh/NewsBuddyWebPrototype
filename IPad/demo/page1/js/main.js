@@ -90,7 +90,7 @@ function myFunction(num) {
         document.getElementById('block_4').style.backgroundColor = '';
         document.getElementById('block_5').style.backgroundColor = '';
         document.getElementById('block_6').style.backgroundColor = '';
-        document.getElementById('block_7').style.backgroundColor = '#bbbbbb';
+        document.getElementById('block_7').style.backgroundColor = '';
 
     }
 }

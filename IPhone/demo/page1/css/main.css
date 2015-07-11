@@ -98,7 +98,7 @@ height: 363px;
 width: 619px;
 margin-top: 0px;
 overflow:auto;
-cursor:default;
+cursor:pointer;
 }
 
 #index {
@@ -115,7 +115,7 @@ width:50px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default;
+cursor:pointer;
 background-color: #3e4656;
 }
 
@@ -142,14 +142,14 @@ width:50px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default
+cursor:pointer
 }
 #index3 {
 width:55px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default;
+cursor:pointer;
 margin-right:0px;
 }
 
@@ -158,7 +158,7 @@ width:70px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default;
+cursor:pointer;
 margin-right:0px;
 }
 #index5 {
@@ -166,7 +166,7 @@ width:61px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default;
+cursor:pointer;
 margin-right:0px;
 }
 
@@ -177,7 +177,9 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 19px !important;
+font-weight: 700;
 }
 
 #block_2 {
@@ -187,7 +189,8 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;	
-cursor:default
+cursor:pointer;
+font-size: 25px !important;
 }
 
 #block_3 {
@@ -198,7 +201,8 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 18px !important;
 }
 
 #block_4 {
@@ -208,8 +212,10 @@ float: left;
 margin: 0px;
 margin-bottom: 0px;
 border: 0px solid white;
+cursor:pointer;
+background: url(../../images/lakme.jpg) bottom right no-repeat;
+background-size: 100% 100%;
 background-color: #D5D5D5;
-cursor:default
 }
 
 #block_5 {
@@ -219,7 +225,9 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 19px !important;
+font-family: cursive !important;
 }
 
 #block_6 {
@@ -229,7 +237,9 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 22px !important;
+font-weight: 700;
 }
 
 #block_7 {
@@ -238,7 +248,10 @@ width: 148px;
 margin: 0px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+background: url(../../images/sg6.jpg) right bottom no-repeat;
+background-size: 70% 50%;
+font-family: cursive !important;
 }
 
 a{

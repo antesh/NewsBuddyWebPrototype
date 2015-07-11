@@ -92,7 +92,7 @@ height: 363px;
 width: 619px;
 margin-top: 0px;
 overflow:auto;
-cursor:default
+cursor:pointer
 }
 
 #index div a{
@@ -127,7 +127,7 @@ width:50px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default
+cursor:pointer
 }
 
 #index2 {
@@ -135,14 +135,14 @@ width:50px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default
+cursor:pointer
 }
 #index3 {
 width:55px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default;
+cursor:pointer;
 margin-right:0px;
 }
 
@@ -151,7 +151,7 @@ width:70px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default;
+cursor:pointer;
 margin-right:0px;
 background-color: #3e4656;
 }
@@ -160,7 +160,7 @@ width:65px;
 height: 22px;
 margin:0px;
 border: 0px;
-cursor:default;
+cursor:pointer;
 margin-right:0px;
 }
 
@@ -171,7 +171,9 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 25px !important;
+font-weight: 700;
 }
 
 #block_2 {
@@ -181,7 +183,13 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;	
-cursor:default
+cursor:pointer;
+background: url(../../images/delhi.jpg) top right no-repeat;
+background-size: 66% 87%;
+background-color: #D5D5D5;
+font-size: 20px !important;
+font-weight: 700;
+background-position-y: 28px;
 }
 
 #block_3 {
@@ -192,7 +200,12 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+background: url(../../images/iitm.png) bottom right no-repeat;
+background-size: 50% 70%;
+background-color: #D5D5D5;
+font-size: 20px !important;
+font-weight: 700;
 }
 
 #block_4 {
@@ -202,8 +215,13 @@ float: left;
 margin: 0px;
 margin-bottom: 0px;
 border: 0px solid white;
+cursor:pointer;
+font-size: 19px !important;
+font-weight: 700;
+background: url(../../images/yoga.png) bottom no-repeat;
+background-size: 96% 58%;
+background-position-y: 34px;
 background-color: #D5D5D5;
-cursor:default
 }
 
 #block_5 {
@@ -213,7 +231,12 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+background: url(../../images/is.png) bottom no-repeat;
+background-size: 70% 70%;
+background-color: #D5D5D5;
+font-size: 20px !important;
+font-weight: 700;
 }
 
 #block_6 {
@@ -223,7 +246,8 @@ margin: 0px;
 margin-bottom: 1px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer;
+font-size: 25px !important;
 }
 
 #block_7 {
@@ -232,7 +256,12 @@ width: 148px;
 margin: 0px;
 border: 0px solid white;
 background-color: #D5D5D5;
-cursor:default
+cursor:pointer; 
+font-size: 26px !important;
+background: url(../../images/ques.gif) bottom right no-repeat;
+background-size: 32% 51%;
+background-color: #D5D5D5;
+background-position-x: 78px;
 }
 
 a{
