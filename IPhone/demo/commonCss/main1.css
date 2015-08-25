@@ -49,22 +49,38 @@ color: #bdb09f;
 width: 550px;
 padding: 0px;
 }
-
+.share-buttons img{
+width:32px;
+height:32px;
+}
 #three_one {
 width: 170px;
 margin-right: 4px;
 padding: 0px;
 }
 
+#three_one  img{
+width: 70px;
+height: 70px;
+}
 #three_two {
 width: 170px;
 margin-right: 4px;
 padding: 0px;
 }
 
+#three_two  img{
+width: 70px;
+height: 70px;
+}
 #three_three {
 width: 180px;
 padding: 0px;
+}
+
+#three_three  img{
+width: 70px;
+height: 70px;
 }
 #ipadImage{
 	height: 100px;
